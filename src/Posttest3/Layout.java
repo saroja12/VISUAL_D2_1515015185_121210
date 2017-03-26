@@ -102,7 +102,7 @@ public class Layout extends javax.swing.JFrame {
                 .addComponent(jLabel2, javax.swing.GroupLayout.PREFERRED_SIZE, 33, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(76, 76, 76)
                 .addComponent(jLabel3)
-                .addContainerGap(245, Short.MAX_VALUE))
+                .addContainerGap(148, Short.MAX_VALUE))
         );
 
         jPanel1.add(panelberanda, "card2");
@@ -312,7 +312,7 @@ public class Layout extends javax.swing.JFrame {
                 .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, 177, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jButton5)
-                .addContainerGap(162, Short.MAX_VALUE))
+                .addContainerGap(65, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout panelprofileLayout = new javax.swing.GroupLayout(panelprofile);
@@ -389,7 +389,7 @@ public class Layout extends javax.swing.JFrame {
         getContentPane().add(jPanel2, java.awt.BorderLayout.PAGE_END);
 
         jPanel5.setBackground(new java.awt.Color(204, 255, 204));
-        jPanel5.setLayout(new java.awt.GridLayout(3, 0, 0, 15));
+        jPanel5.setLayout(new java.awt.GridLayout(2, 0, 0, 15));
 
         jButton1.setText("BERANDA");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
